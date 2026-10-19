@@ -1,0 +1,32 @@
+.core-intro{font-size:11px;color:var(--soft);line-height:1.8;margin:0 0 16px}
+.core-word-list{list-style:none;padding:0;margin:0 0 28px;display:grid;gap:12px}
+.core-word-card{padding:18px;background:var(--surface);border:1px solid var(--line);border-radius:15px}
+.core-word-top{display:flex;gap:12px;align-items:flex-start}
+.core-word-number{font-family:var(--serif);font-size:13px;color:var(--soft);padding-top:7px;flex:none}
+.core-word-detail{padding:0;text-align:left;min-width:0;flex:1;display:block}
+.core-word-detail strong{display:block;font-family:var(--serif);font-size:25px;line-height:1.4;font-weight:400;overflow-wrap:anywhere;color:var(--ink)}
+.core-word-detail .ipa{display:block;font-size:12px;color:var(--soft);line-height:1.8;margin-top:5px;overflow-wrap:anywhere}
+.core-word-meaning{display:block;color:var(--muted);font-size:13px;line-height:1.9;margin-top:9px}
+.core-detail-link{display:inline-flex;align-items:center;gap:3px;color:var(--accent);font-size:11px;line-height:1.8;margin-top:10px}
+.core-detail-link svg{width:13px;height:13px}
+.core-word-footer{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:15px;padding-top:12px;border-top:1px solid var(--line)}
+.core-word-footer .audio-button{font-size:11px;padding:8px 11px}
+.memory-note p+p{margin-top:10px}
+.theme-vocabulary{margin-bottom:28px}
+.theme-group{border:1px solid var(--line);border-radius:14px;background:var(--surface);margin:12px 0;overflow:hidden}
+.theme-group h3{margin:0;font-size:14px;font-weight:500}
+.theme-toggle{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;padding:18px;text-align:left;line-height:1.8;min-height:76px}
+.theme-toggle small{display:block;font-size:11px;font-weight:400;color:var(--soft);margin-top:6px}
+.theme-toggle-symbol{color:var(--accent);font-size:20px;flex:none}
+.theme-word-list{list-style:none;margin:0;padding:0 18px}
+.theme-word-list[hidden]{display:none}
+.theme-word-row{display:flex;align-items:flex-start;gap:12px;border-top:1px solid var(--line);padding:20px 0}
+.theme-word-detail{padding:0;flex:1;min-width:0;text-align:left}
+.theme-word-detail strong{display:block;font-family:var(--serif);font-size:23px;line-height:1.4;font-weight:400;overflow-wrap:anywhere}
+.theme-word-detail .ipa{display:block;color:var(--soft);font-size:11px;line-height:1.9;margin-top:6px;overflow-wrap:anywhere}
+.theme-word-row>.audio-button{flex:none;font-size:11px;padding:8px;gap:5px;min-width:0}
+.theme-word-row>.audio-button.active{min-width:0}
+.theme-toggle:focus-visible{outline-offset:-4px}
+.lesson-select-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:16px 0;color:var(--muted);font-size:12px}
+.lesson-select-row select{min-width:0;max-width:75%;padding:11px 12px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:9px;font-size:12px}
+.recall-progress{gap:0;background:var(--line);border-radius:3px;overflow:hidden}

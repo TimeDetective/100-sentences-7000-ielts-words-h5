@@ -1,0 +1,423 @@
+{
+  "title": "原创示例课程",
+  "lessons": [
+    {
+      "id": 1,
+      "title": "在散步中发现小惊喜",
+      "sentence": "A quiet walk can turn an ordinary evening into a small adventure.",
+      "translation": "一次安静的散步，可以把一个平常的夜晚变成一场小小的探索。",
+      "grammar": "主语是 A quiet walk；can turn 是谓语。turn A into B 表示“把 A 变成 B”。",
+      "exerciseAnswer": "ordinary",
+      "words": [
+        {
+          "id": "demo-1-1",
+          "word": "quiet",
+          "meaning": "adj. 安静的",
+          "ipa": "/ˈkwaɪət/",
+          "notes": [
+            "【示例说明】本词条为项目自编释义，请结合整句理解。"
+          ],
+          "core": true,
+          "group": "核心词汇",
+          "page": 1
+        },
+        {
+          "id": "demo-1-2",
+          "word": "ordinary",
+          "meaning": "adj. 平常的；普通的",
+          "ipa": "/ˈɔːdɪnəri/",
+          "notes": [],
+          "core": true,
+          "group": "核心词汇",
+          "page": 1
+        },
+        {
+          "id": "demo-1-3",
+          "word": "adventure",
+          "meaning": "n. 探索；冒险经历",
+          "ipa": "/ədˈventʃə/",
+          "notes": [],
+          "core": true,
+          "group": "核心词汇",
+          "page": 1
+        },
+        {
+          "id": "demo-1-4",
+          "word": "wander",
+          "meaning": "v. 闲逛；漫步",
+          "ipa": "/ˈwɒndə/",
+          "notes": [],
+          "core": false,
+          "group": "与散步和探索有关的词",
+          "page": 1
+        },
+        {
+          "id": "demo-1-5",
+          "word": "stroll",
+          "meaning": "n./v. 散步",
+          "ipa": "/strəʊl/",
+          "notes": [],
+          "core": false,
+          "group": "与散步和探索有关的词",
+          "page": 1
+        },
+        {
+          "id": "demo-1-6",
+          "word": "explore",
+          "meaning": "v. 探索",
+          "ipa": "/ɪkˈsplɔː/",
+          "notes": [],
+          "core": false,
+          "group": "与散步和探索有关的词",
+          "page": 1
+        }
+      ],
+      "glosses": {
+        "a": {
+          "lemma": "a",
+          "meaning": "一；一个",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "quiet": {
+          "lemma": "quiet",
+          "meaning": "adj. 安静的",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "walk": {
+          "lemma": "walk",
+          "meaning": "名词：散步",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "can": {
+          "lemma": "can",
+          "meaning": "能够；可以",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "turn": {
+          "lemma": "turn",
+          "meaning": "动词：使变成",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "an": {
+          "lemma": "an",
+          "meaning": "一；一个",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "ordinary": {
+          "lemma": "ordinary",
+          "meaning": "adj. 平常的；普通的",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "evening": {
+          "lemma": "evening",
+          "meaning": "名词：傍晚；夜晚",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "into": {
+          "lemma": "into",
+          "meaning": "变成；进入",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "small": {
+          "lemma": "small",
+          "meaning": "形容词：小的",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "adventure": {
+          "lemma": "adventure",
+          "meaning": "n. 探索；冒险经历",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        }
+      },
+      "startPage": 1,
+      "endPage": 1
+    },
+    {
+      "id": 2,
+      "title": "为习惯留一点余地",
+      "sentence": "We build lasting habits by making small choices and leaving room for rest.",
+      "translation": "我们通过做出小小的选择，并为休息留出空间，建立持久的习惯。",
+      "grammar": "by 后接并列的动名词短语 making small choices 和 leaving room for rest，说明建立习惯的方式。",
+      "exerciseAnswer": "lasting",
+      "words": [
+        {
+          "id": "demo-2-1",
+          "word": "lasting",
+          "meaning": "adj. 持久的",
+          "ipa": "/ˈlɑːstɪŋ/",
+          "notes": [
+            "【示例说明】本词条为项目自编释义，请结合整句理解。"
+          ],
+          "core": true,
+          "group": "核心词汇",
+          "page": 2
+        },
+        {
+          "id": "demo-2-2",
+          "word": "habits",
+          "meaning": "n. 习惯（habit 的复数）",
+          "ipa": "/ˈhæbɪts/",
+          "notes": [],
+          "core": true,
+          "group": "核心词汇",
+          "page": 2
+        },
+        {
+          "id": "demo-2-3",
+          "word": "choices",
+          "meaning": "n. 选择（choice 的复数）",
+          "ipa": "/ˈtʃɔɪsɪz/",
+          "notes": [],
+          "core": true,
+          "group": "核心词汇",
+          "page": 2
+        },
+        {
+          "id": "demo-2-4",
+          "word": "routine",
+          "meaning": "n. 日常安排",
+          "ipa": "/ruːˈtiːn/",
+          "notes": [],
+          "core": false,
+          "group": "与日常习惯有关的词",
+          "page": 2
+        },
+        {
+          "id": "demo-2-5",
+          "word": "practice",
+          "meaning": "n./v. 练习",
+          "ipa": "/ˈpræktɪs/",
+          "notes": [],
+          "core": false,
+          "group": "与日常习惯有关的词",
+          "page": 2
+        },
+        {
+          "id": "demo-2-6",
+          "word": "balance",
+          "meaning": "n./v. 平衡",
+          "ipa": "/ˈbæləns/",
+          "notes": [],
+          "core": false,
+          "group": "与日常习惯有关的词",
+          "page": 2
+        }
+      ],
+      "glosses": {
+        "we": {
+          "lemma": "we",
+          "meaning": "我们",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "build": {
+          "lemma": "build",
+          "meaning": "动词：建立",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "lasting": {
+          "lemma": "lasting",
+          "meaning": "adj. 持久的",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "habits": {
+          "lemma": "habits",
+          "meaning": "n. 习惯（habit 的复数）",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "by": {
+          "lemma": "by",
+          "meaning": "通过；借助",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "making": {
+          "lemma": "make",
+          "meaning": "动词 make 的动名词：做出",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "small": {
+          "lemma": "small",
+          "meaning": "形容词：小的",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "choices": {
+          "lemma": "choices",
+          "meaning": "n. 选择（choice 的复数）",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "and": {
+          "lemma": "and",
+          "meaning": "和；并且",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "leaving": {
+          "lemma": "leave",
+          "meaning": "动词 leave 的动名词：留下",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "room": {
+          "lemma": "room",
+          "meaning": "名词：空间；余地",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "for": {
+          "lemma": "for",
+          "meaning": "供；为了",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "rest": {
+          "lemma": "rest",
+          "meaning": "名词：休息",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        }
+      },
+      "startPage": 2,
+      "endPage": 2
+    },
+    {
+      "id": 3,
+      "title": "让分享成为一次学习",
+      "sentence": "Sharing a useful idea often helps both the listener and the speaker learn.",
+      "translation": "分享一个有用的想法，常常能帮助倾听者和讲述者双方学习。",
+      "grammar": "Sharing a useful idea 是动名词短语作主语。help somebody do something 表示“帮助某人做某事”。",
+      "exerciseAnswer": "useful",
+      "words": [
+        {
+          "id": "demo-3-1",
+          "word": "sharing",
+          "meaning": "n./v. 分享（share 的动名词）",
+          "ipa": "/ˈʃeərɪŋ/",
+          "notes": [
+            "【示例说明】本词条为项目自编释义，请结合整句理解。"
+          ],
+          "core": true,
+          "group": "核心词汇",
+          "page": 3
+        },
+        {
+          "id": "demo-3-2",
+          "word": "useful",
+          "meaning": "adj. 有用的",
+          "ipa": "/ˈjuːsfəl/",
+          "notes": [],
+          "core": true,
+          "group": "核心词汇",
+          "page": 3
+        },
+        {
+          "id": "demo-3-3",
+          "word": "listener",
+          "meaning": "n. 倾听者",
+          "ipa": "/ˈlɪsənə/",
+          "notes": [],
+          "core": true,
+          "group": "核心词汇",
+          "page": 3
+        },
+        {
+          "id": "demo-3-4",
+          "word": "speaker",
+          "meaning": "n. 讲述者；说话者",
+          "ipa": "/ˈspiːkə/",
+          "notes": [],
+          "core": true,
+          "group": "核心词汇",
+          "page": 3
+        },
+        {
+          "id": "demo-3-5",
+          "word": "curious",
+          "meaning": "adj. 好奇的",
+          "ipa": "/ˈkjʊəriəs/",
+          "notes": [],
+          "core": false,
+          "group": "与交流和理解有关的词",
+          "page": 3
+        },
+        {
+          "id": "demo-3-6",
+          "word": "explain",
+          "meaning": "v. 解释",
+          "ipa": "/ɪkˈspleɪn/",
+          "notes": [],
+          "core": false,
+          "group": "与交流和理解有关的词",
+          "page": 3
+        },
+        {
+          "id": "demo-3-7",
+          "word": "reflect",
+          "meaning": "v. 反思",
+          "ipa": "/rɪˈflekt/",
+          "notes": [],
+          "core": false,
+          "group": "与交流和理解有关的词",
+          "page": 3
+        }
+      ],
+      "glosses": {
+        "sharing": {
+          "lemma": "sharing",
+          "meaning": "n./v. 分享（share 的动名词）",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "a": {
+          "lemma": "a",
+          "meaning": "一；一个",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "useful": {
+          "lemma": "useful",
+          "meaning": "adj. 有用的",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "idea": {
+          "lemma": "idea",
+          "meaning": "名词：想法",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "often": {
+          "lemma": "often",
+          "meaning": "副词：经常",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "helps": {
+          "lemma": "help",
+          "meaning": "动词 help 的第三人称单数：帮助",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "both": {
+          "lemma": "both",
+          "meaning": "两者都",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "the": {
+          "lemma": "the",
+          "meaning": "指已知或特定的人或事物",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "listener": {
+          "lemma": "listener",
+          "meaning": "n. 倾听者",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "and": {
+          "lemma": "and",
+          "meaning": "和；并且",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "speaker": {
+          "lemma": "speaker",
+          "meaning": "n. 讲述者；说话者",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        },
+        "learn": {
+          "lemma": "learn",
+          "meaning": "动词：学习",
+          "note": "项目原创示例词义，用于演示查词功能。"
+        }
+      },
+      "startPage": 3,
+      "endPage": 3
+    }
+  ]
+}

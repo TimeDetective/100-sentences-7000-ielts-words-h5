@@ -1,0 +1,2 @@
+.audio-caption{font-size:11px;color:var(--soft);margin:-10px 0 23px;line-height:1.8}.sentence-word.speaking{background:var(--tint);color:var(--accent);box-shadow:0 2px 0 var(--accent);border-radius:3px;text-decoration-color:transparent}.audio-button.loading{color:var(--accent);background:var(--tint)}.audio-button[aria-busy=true]{outline:1px solid #d8eea02b}.sentence-word{transition:background-color .12s,color .12s}.audio-button.active{min-width:98px}
+@media(prefers-reduced-motion:reduce){.sentence-word{transition:none}}
