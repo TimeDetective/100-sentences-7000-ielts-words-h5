@@ -1,0 +1,38 @@
+name: Deploy H5 demo to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out public source
+        uses: actions/checkout@v6
+      - name: Build original demo course and usage notices
+        run: python3 tools/build_course.py
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload H5 site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Deploy H5 preview
+        id: deployment
+        uses: actions/deploy-pages@v4
