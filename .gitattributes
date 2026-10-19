@@ -1,0 +1,4 @@
+# The dist directory contains hand-written H5 source, not a compiled bundle.
+dist/*.js linguist-generated=false linguist-vendored=false linguist-detectable=true
+dist/*.css linguist-generated=false linguist-vendored=false linguist-detectable=true
+dist/*.html linguist-generated=false linguist-vendored=false linguist-detectable=true
